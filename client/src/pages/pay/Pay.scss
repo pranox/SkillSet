@@ -1,0 +1,27 @@
+.pay{
+    display: flex;
+  justify-content: center;
+  padding: 20px;
+
+  .container {
+    width: 1400px;
+    padding: 50px 12px;
+
+    .title {
+      display: flex;
+      justify-content: space-between;
+      
+      }
+    }
+    button {
+        background-color: #0f7706;
+        color: white;
+        font-weight: 500;
+        border: none;
+        padding: 15px;
+        cursor: pointer;
+        border-radius: 12px;
+        width: 400px;
+      }
+}
+ 
